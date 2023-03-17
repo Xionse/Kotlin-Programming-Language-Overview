@@ -29,9 +29,9 @@ To use Kotlin in your own projects, you can create a new Kotlin project in your 
 ### Examples
 This repository includes several examples of Kotlin code, including:
 
-Simple programs demonstrating basic concepts such as variables, functions, and control flow.
-Examples of how to work with different data types in Kotlin, such as numbers, strings, and arrays.
-Code snippets showing how to handle exceptions and null values in Kotlin.
+* Simple programs demonstrating basic concepts such as variables, functions, and control flow.
+* Examples of how to work with different data types in Kotlin, such as numbers, strings, and arrays.
+* Code snippets showing how to handle exceptions and null values in Kotlin.
 ## Contributing
 Contributions to this repository are welcome! If you find an error or omission, or if you would like to suggest a new example or topic, please feel free to open an issue or submit a pull request.
 
