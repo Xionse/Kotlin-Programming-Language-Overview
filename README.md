@@ -20,9 +20,7 @@ To use Kotlin, you need to have the following software installed:
 The latest version of the Java Development Kit (JDK).
 An integrated development environment (IDE) with Kotlin support, such as IntelliJ IDEA, Android Studio, or Eclipse.
 ### Installing
-To install Kotlin, follow the instructions for your operating system on the official Kotlin website:
-
-## Getting Started with Kotlin
+To install Kotlin, follow the instructions for your operating system on the official Kotlin website:  Getting Started with Kotlin
 ### Usage
 To use Kotlin in your own projects, you can create a new Kotlin project in your IDE, or add the Kotlin plugin to an existing Java project. You can also use Kotlin with other build tools such as Gradle or Maven.
 
