@@ -6,7 +6,7 @@ fun main() {
         println("Result: $result")
     } catch (e: ArithmeticException) {
         println("Cannot divide by zero!")
-    } finally {
+    } finally {  // cleanup tasks after the try-catch block has executed
         println("End of program")
     }
 }
