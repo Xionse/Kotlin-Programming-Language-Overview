@@ -14,7 +14,7 @@ This repository covers the following topics:
 ## Getting Started
 To get started with Kotlin, you can download the latest version of the Kotlin compiler from the official website, or use the Kotlin plugin for IntelliJ IDEA, Android Studio, or another compatible IDE.
 
-## Prerequisites
+### Prerequisites
 To use Kotlin, you need to have the following software installed:
 
 The latest version of the Java Development Kit (JDK).
