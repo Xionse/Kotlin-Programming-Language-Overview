@@ -19,3 +19,21 @@ fun main() {
     val message = "Hello, world!"
     println(message)
 }
+
+
+
+// Alternatively 
+
+fun main() {
+    val a: Int = 10          // integer literal
+    val b: Double = 3.14     // floating-point literal
+    val c: Boolean = true    // boolean literal
+    val d: Char = 'a'        // character literal
+    val e: String = "Hello"  // string literal
+    
+    println(a)
+    println(b)
+    println(c)
+    println(d)
+    println(e)
+}
