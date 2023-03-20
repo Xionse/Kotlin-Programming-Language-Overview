@@ -1,12 +1,19 @@
-fun main() {
+fun divide(x: Int, y: Int): Int {
     try {
-        val num1 = 10
-        val num2 = 0
-        val result = num1 / num2
-        println("Result: $result")
+        // attempt to divide x by y
+        return x / y
     } catch (e: ArithmeticException) {
-        println("Cannot divide by zero!")
-    } finally {  // cleanup tasks after the try-catch block has executed
-        println("End of program")
+        // handle division by zero or other arithmetic errors
+        println("Error: ${e.message}")
+        return 0
+    } finally {
+        // code to be executed regardless of whether an exception occurred or not
+        println("Division operation complete.")
     }
+}
+
+fun main() {
+    // call the divide function with arguments
+    val result = divide(10, 2)
+    println("Result: $result")
 }
